@@ -26,6 +26,15 @@ typowe problemy i definicję ukończenia.
 | 3 | Document Service w pętli TDD | 40 min | [dzien-2/cw3-tdd.md](dzien-2/cw3-tdd.md) |
 | 4 | Problem details i change request v1.1 | 30 min | [dzien-2/cw4-bledy-i-change-request.md](dzien-2/cw4-bledy-i-change-request.md) |
 
+## Tutorial samodzielny
+
+| Tutorial | Czas | Plik |
+|---|---|---|
+| Od podpowiedzi do testu z GitHub Copilot | 90 min | [tutorial-copilot-od-promptu-do-testu.md](tutorial-copilot-od-promptu-do-testu.md) |
+| Projektowanie custom agents: od opisu do handoffu | 90 min | [tutorial-projektowanie-agentow.md](tutorial-projektowanie-agentow.md) |
+| Używanie i tworzenie Agent Skills | 90 min | [tutorial-uzywanie-i-tworzenie-skills.md](tutorial-uzywanie-i-tworzenie-skills.md) |
+| MCP dla Data Science: od dokumentacji do danych | 75 min | [tutorial-mcp-dla-data-science.md](tutorial-mcp-dla-data-science.md) |
+
 ## Konwencje w instrukcjach
 
 - `▶ Copilot (Ask)` / `▶ Copilot (Plan)` / `▶ Copilot (Agent)` — wybierz tego agenta w czacie VS Code
